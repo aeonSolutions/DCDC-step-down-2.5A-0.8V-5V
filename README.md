@@ -110,8 +110,7 @@ if you like to own a copy of this work, you can buy it as a NFT or Ethereum. Con
 
 =====================================================================================
 ### Share this PCB board files
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fjitpack.io%2F&ref_src=twsrc%5Etfw&text=Version%201.0%20of%20DCDC-step-down-2.5A-0.8V-5V
-%20is%20now%20available%20on%20&tw_p=tweetbutton&url=http%3A%2F%2Fgithub.com%2FaeonSolutions%2FDCDC-step-down-2.5A-0.8V-5V)
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fjitpack.io%2F&ref_src=twsrc%5Etfw&text=Version%201.0%20of%20DCDC-step-down-2.5A-0.8V-5V%20is%20now%20available%20on%20&tw_p=tweetbutton&url=http%3A%2F%2Fgithub.com%2FaeonSolutions%2FDCDC-step-down-2.5A-0.8V-5V)
 
 <a href="https://stackexchange.com/users/18907312/miguel-silva"><img src="https://stackexchange.com/users/flair/18907312.png" width="208" height="58" alt="profile for Miguel Silva on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Miguel Silva on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
@@ -139,9 +138,3 @@ Liked any of my PCB KiCad Designs? Help and Support my open work to all by becom
 In return I will give a free PCB design in KiCad to all patreon supporters. To learn more go to patreon.com. Link below.
 
 [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/patreon_small.png)](https://www.patreon.com/ldad)
-
-
-
-
-
-
