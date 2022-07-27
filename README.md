@@ -6,7 +6,7 @@
  [![Donate](https://img.shields.io/badge/donate-$-brown.svg?style=for-the-badge)](http://paypal.me/mtpsilva)
  [![Say Thanks](https://img.shields.io/badge/Say%20Thanks-!-yellow.svg?style=for-the-badge)](https://saythanks.io/to/mtpsilva)
  
-A PCB for a 2.9" E-Ink Display. Requires #no #power an can be configured using @AeonlabsS E-Ink Configuration Device (#EInkCD). Suitable for #commerce or #warehouse shelves for #labelling or #price tagging. Total cost, including the E-Ink Display starts at only 10 euros. Already assembled.
+This is a PCB module for a DC to DC step down to [5; 0.8]V. Ready to be imported into any KiCad project. 
 
 
 *Don't forget to LIKE , SHARE and subscribe the free whatsApp group* and if you liked this PCB consider buying me a cup of coffee. Links below.
@@ -25,7 +25,7 @@ If you already tested this PCB send me a message. Thank you
   - PCB for the 2.9" E-Ink Passive Display. No batteries or power required.
 
 
-![](https://github.com/aeonSolutions/DCDC-step-down-2.5A-0.8V-5V/blob/main/designs/pcb_back.png)
+![](https://github.com/aeonSolutions/DCDC-step-down-2.5A-0.8V-5V/blob/main/designs/pcb_front.png)
 
 ## Liked it ? Get a Free PCB for yourself
 Send me your Device or hardware and i will design a custom PCB for it. Free of charge. Contact-me on WhatsApp or email for more info. 
