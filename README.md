@@ -56,8 +56,9 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________
 
 
-#### PCB Parts list:
+## PCB Parts list:
 - SMD capacitors: https://s.click.aliexpress.com/e/_Asa5qd
+- AUR9718: https://s.click.aliexpress.com/e/_DDH1xoF
 
 ## Fully assembled PCB
 | [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_sell.png)](https://www.tindie.com/stores/aeonlabs/) | To all those not into electronics and still liked and want to own any of the listed PCB for smart devices can buy one on Tindie. |
