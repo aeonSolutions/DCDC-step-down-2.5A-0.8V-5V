@@ -12,7 +12,7 @@ This is a PCB module for a DC to DC step down to [5; 0.8]V. Ready to be imported
 *Don't forget to LIKE , SHARE and subscribe the free whatsApp group* and if you liked this PCB consider buying me a cup of coffee. Links below.
  
 ### Status
-![](https://github.com/aeonSolutions/AeonLabs-Smart-Passive-E-Ink-Display/blob/main/Designs/working_yellow.png)  Waiting to be tested.
+![](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-AC220DC5V0/blob/main/designs/working_green.png)  revision 1.1 fully tested and working.
 
 If you already tested this PCB send me a message. Thank you
 
